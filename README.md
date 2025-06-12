@@ -37,16 +37,16 @@ src/
 
 └── main.jsx # Application entry point
 
-
+---
 ## 🛠️ Getting Started
-
+---
 ### Prerequisites
 
 Make sure you have the following installed:
 
 - Node.js
 - npm (Node package manager)
-
+---
 ### Installation
 
 git clone https://github.com/YOUR-USERNAME/wind-games.git
@@ -56,7 +56,7 @@ cd wind-games
 npm install
 
 npm run dev
-
+---
 ##🖥️ Tech Stack
 
 ⚛️ React
@@ -66,7 +66,7 @@ npm run dev
 🌐 React Router DOM
 
 🎨 CSS (Modular & clean)
-
+---
 ##📸 Screenshots
 ![image](https://github.com/user-attachments/assets/c2bd17a9-415d-4c43-98df-f7fdc3fae732)
 ![image](https://github.com/user-attachments/assets/935b0bc2-43c9-4476-9486-f9a10ecbeb56)
