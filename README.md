@@ -5,11 +5,10 @@
   Discover, explore, and connect with the most popular games — all from a clean and modern interface.
 </p>
 
-<p align="center">
+
   ![image](https://github.com/user-attachments/assets/fd4df022-482e-450d-b67e-5dc722ba683c)
 
   
-</p>
 
 ---
 
