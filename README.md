@@ -6,7 +6,9 @@
 </p>
 
 <p align="center">
-  <img src="./src/assets/screenshot.png" alt="Wind Games Screenshot" width="80%" />
+  ![image](https://github.com/user-attachments/assets/fd4df022-482e-450d-b67e-5dc722ba683c)
+
+  
 </p>
 
 ---
