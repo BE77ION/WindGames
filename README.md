@@ -26,10 +26,15 @@
 
 src/
 ├── assets/ # Game covers, logos, icons
+
 ├── content/ # UI components (GameCard, Head, GameGrid)
+
 ├── css/ # Modular CSS files for each component
+
 ├── pages/ # Page-level components (Home, Popular, etc.)
+
 ├── App.jsx # Main app with routing logic
+
 └── main.jsx # Application entry point
 
 
@@ -45,13 +50,21 @@ Make sure you have the following installed:
 ### Installation
 
 git clone https://github.com/YOUR-USERNAME/wind-games.git
+
 cd wind-games
+
 npm install
+
 npm run dev
+
 🖥️ Tech Stack
+
 ⚛️ React
+
 ⚡ Vite
+
 🌐 React Router DOM
+
 🎨 CSS (Modular & clean)
 
 📸 Screenshots
