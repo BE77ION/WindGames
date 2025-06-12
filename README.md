@@ -55,7 +55,9 @@ npm run dev
 🎨 CSS (Modular & clean)
 
 📸 Screenshots
-Home Page	Game Cards
+![image](https://github.com/user-attachments/assets/c2bd17a9-415d-4c43-98df-f7fdc3fae732)
+![image](https://github.com/user-attachments/assets/935b0bc2-43c9-4476-9486-f9a10ecbeb56)
+
 
 🤝 Contributing
 Pull requests are welcome! If you find any bugs or have feature suggestions, feel free to open an issue or fork the repo and contribute.
