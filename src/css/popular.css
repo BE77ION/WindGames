@@ -1,0 +1,28 @@
+.container{
+        display: flex;
+        flex-direction: column;
+        flex-wrap: wrap;
+        background-color: black;
+      width: 100%;
+      overflow: hidden;
+       
+       
+}
+
+.heading{
+ background-color: #111; 
+  
+    width: 100%;
+    font-size: 8rem;
+    text-align: center;
+    color:   #e0e0e0;
+    font-family: "Orbitron", sans-serif;
+    font-weight: 900;
+    text-align: center;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+    margin-bottom: -30px;
+    margin-top: 0;
+    margin-left: -100px;
+
+}
+
