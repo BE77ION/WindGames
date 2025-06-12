@@ -39,7 +39,7 @@ src/
 
 ---
 ## 🛠️ Getting Started
----
+
 ### Prerequisites
 
 Make sure you have the following installed:
@@ -56,8 +56,9 @@ cd wind-games
 npm install
 
 npm run dev
+
 ---
-##🖥️ Tech Stack
+## 🖥️ Tech Stack
 
 ⚛️ React
 
@@ -72,10 +73,10 @@ npm run dev
 ![image](https://github.com/user-attachments/assets/935b0bc2-43c9-4476-9486-f9a10ecbeb56)
 
 
-##🤝 Contributing
+## 🤝 Contributing
 Pull requests are welcome! If you find any bugs or have feature suggestions, feel free to open an issue or fork the repo and contribute.
 
-##📄 License
+## 📄 License
 This project is licensed under the MIT License.
 
 ✨ Built with love for gamers and devs.
